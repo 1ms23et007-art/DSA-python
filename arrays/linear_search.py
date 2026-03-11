@@ -1,6 +1,14 @@
-"""
+""" 
+Source: HackerRank
+Difficulty: Easy
+Topic: Arrays
 Problem: Linear Search
-Find the index of a target element in an array
+
+Approach:
+Traverse the array and compare each element with the target.
+
+Time Complexity: O(n)
+Space Complexity: O(1)
 """
 
 arr = [10,20,30,40]
