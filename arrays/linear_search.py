@@ -1,5 +1,5 @@
 """ 
-Source: HackerRank
+Source: Self Learning
 Difficulty: Easy
 Topic: Arrays
 Problem: Linear Search
